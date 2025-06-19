@@ -6,7 +6,7 @@
 * [Board Representation](#board-representation)
 * [Move Generation](#move-generation)
 * [Usage](#usage)
-+ [Sample FEN Strings](#sample-fen-strings)
+    * [Sample FEN Strings](#sample-fen-strings)
 * [Building and Running](#building-and-running)
 * [Implementation Details](#implementation-details)
 * [Limitations](#limitations)
