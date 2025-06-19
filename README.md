@@ -18,7 +18,7 @@ This is a simple chess engine implementation written in C, featuring bitboard re
 
 <!-- TOC --><a name="ack"></a>
 ## Acknowledgements
-Thank you to (chessprogramming591)[https://www.youtube.com/@chessprogramming591] for the help with this
+Thank you to [chessprogramming591](https://www.youtube.com/@chessprogramming591) for the help with this
 
 <!-- TOC --><a name="features"></a>
 ## Features
