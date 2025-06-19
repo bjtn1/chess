@@ -2,6 +2,7 @@
 
 <!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
 
+* [Acknowledgements](#ack)
 * [Features](#features)
 * [Board Representation](#board-representation)
 * [Move Generation](#move-generation)
@@ -14,6 +15,10 @@
 <!-- TOC end -->
 
 This is a simple chess engine implementation written in C, featuring bitboard representation, move generation, and basic game state management.
+
+<!-- TOC --><a name="ack"></a>
+## Acknowledgements
+Thank you to (chessprogramming591)[https://www.youtube.com/@chessprogramming591] for the help with this
 
 <!-- TOC --><a name="features"></a>
 ## Features
