@@ -1,5 +1,7 @@
 # Chess Engine in C
 
+This is a simple chess engine implementation written in C, featuring bitboard representation, move generation, and basic game state management.
+
 <!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
 
 * [Acknowledgements](#ack)
@@ -14,7 +16,6 @@
 
 <!-- TOC end -->
 
-This is a simple chess engine implementation written in C, featuring bitboard representation, move generation, and basic game state management.
 
 <!-- TOC --><a name="ack"></a>
 ## Acknowledgements
